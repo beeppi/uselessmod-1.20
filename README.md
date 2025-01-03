@@ -8,6 +8,7 @@
    - [useless block](#useless-block)
    - [armor](#armor)
 - [supported languages](#languages-supported)
+- [how to install](#how-to-install)
 - [source installation information for modders (if you want to run the mod with using gradle)](#source-installation-information-for-modders)
 
 ## features
@@ -54,6 +55,19 @@ all armor pieces:
 
 - english
 - finnish
+
+
+## how to install
+
+watch a [tutorial](https://www.youtube.com/watch?v=_mmgsdCxASo) or follow these steps
+
+- download from the [latest release](https://github.com/beeppi/uselessmod-1.20/releases/latest) the .jar file
+- download [forge 1.20](https://files.minecraftforge.net/net/minecraftforge/forge/index_1.20.html) installer (if you don't have it already)
+- run the installer
+- open file explorer and go to %appdata% > .minecraft > mods and put the .jar file in the forder
+- open minecraft launcher
+- run the forge installation or create a new forge installation yourself
+- press play
 
 
 ## Source installation information for modders
