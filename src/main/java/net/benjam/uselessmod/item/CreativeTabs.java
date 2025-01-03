@@ -26,11 +26,6 @@ public class CreativeTabs {
             pOutput.accept(ModBlocks.USELESS_BLOCK.get());
             pOutput.accept(ModBlocks.USELESS_ORE.get());
             pOutput.accept(ModBlocks.DEEPSLATE_USELESS_ORE.get());
-
-            pOutput.accept(ModItems.USELESS_HELMET.get());
-            pOutput.accept(ModItems.USELESS_CHESTPLATE.get());
-            pOutput.accept(ModItems.USELESS_LEGGINGS.get());
-            pOutput.accept(ModItems.USELESS_BOOTS.get());
         })
         .build());
 

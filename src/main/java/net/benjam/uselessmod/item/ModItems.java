@@ -1,7 +1,6 @@
 package net.benjam.uselessmod.item;
 
 import net.benjam.uselessmod.UselessMod;
-import net.minecraft.world.item.ArmorItem;
 import net.minecraft.world.item.Item;
 import net.minecraftforge.eventbus.api.IEventBus;
 import net.minecraftforge.registries.DeferredRegister;
