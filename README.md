@@ -1,5 +1,14 @@
 # uselessmod
 
+## contents
+- [mod features](#features)
+   - [useless ore](#useless-ore)
+   - [raw uselessness](#raw-uselessness)
+   - [uselessness](#uselessness)
+   - [useless block](#useless-block)
+   - [armor](#armor)
+- [source installation information for modders (if you want to run the mod with using gradle)](#source-installation-information-for-modders)
+
 ## features
 
 ### useless ore
@@ -38,6 +47,7 @@ all armor pieces:
 - useless chestplate
 - useless leggings
 - useless boots
+
 
 ## Source installation information for modders
 
