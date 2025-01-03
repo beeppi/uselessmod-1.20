@@ -1,9 +1,38 @@
 # uselessmod
 
-## forge readme
+## features
 
-Source installation information for modders
--------------------------------------------
+### useless ore
+how to find:
+- can be found in caves
+
+use:
+- when mined gives: [raw uselessness](#raw-uselessness)
+
+### raw uselessness
+how to get:
+- get by mining [useless ore](#useless-ore)
+
+use:
+- when smelt in furnace gives: [uselessness](#uselessness)
+
+### uselessness
+useless item
+how to get:
+- smelt [raw uselessness](#raw-uselessness)
+
+use:
+- can be crafted into: [useless block](#useless-block)
+- can be crafted into: [armor](#armor)
+
+### useless block
+how to get:
+- craft from [uselessness](#uselessness)
+
+### armor
+
+## Source installation information for modders
+
 This code follows the Minecraft Forge installation methodology. It will apply
 some small patches to the vanilla MCP source code, giving you and it access 
 to some of the data and functions you need to build a successful mod.
@@ -11,7 +40,7 @@ Note also that the patches are built against "un-renamed" MCP source code (aka
 SRG Names) - this means that you will not be able to read them directly against
 normal code.
 Setup Process:
-==============================
+
 Step 1: Open your command-line and browse to the folder where you extracted the zip file.
 Step 2: You're left with a choice.
 If you prefer to use Eclipse:
