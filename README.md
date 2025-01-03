@@ -6,7 +6,6 @@
    - [raw uselessness](#raw-uselessness)
    - [uselessness](#uselessness)
    - [useless block](#useless-block)
-   - [armor](#armor)
 - [supported languages](#languages-supported)
 - [how to install](#how-to-install)
 - [source installation information for modders (if you want to run the mod with using gradle)](#source-installation-information-for-modders)
