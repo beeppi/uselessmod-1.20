@@ -30,6 +30,14 @@ how to get:
 - craft from [uselessness](#uselessness)
 
 ### armor
+armor sets:
+- useless armor (crafted with: [uselessness](#uselessness))
+
+all armor pieces:
+- useless helmet
+- useless chestplate
+- useless leggings
+- useless boots
 
 ## Source installation information for modders
 
