@@ -5,11 +5,6 @@
 
     "item.uselessmod.raw_uselessness": "raaka hyödyttömyys",
     "item.uselessmod.uselessness": "hyödyttömyys",
-
-    "item.uselessmod.useless_helmet": "hyödytön kypärä",
-    "item.uselessmod.useless_chestplate": "hyödytön rintapanssari",
-    "item.uselessmod.useless_leggings": "hyödyttömät housut",
-    "item.uselessmod.useless_boots": "hyödyttömät saappaat",
     
     "creativetab.test_mod_tab": "hyödytön modi"
 }

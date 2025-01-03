@@ -5,11 +5,6 @@
 
     "item.uselessmod.raw_uselessness": "raw uselessness",
     "item.uselessmod.uselessness": "uselessness",
-
-    "item.uselessmod.useless_helmet": "useless helmet",
-    "item.uselessmod.useless_chestplate": "useless chestplate",
-    "item.uselessmod.useless_leggings": "useless leggings",
-    "item.uselessmod.useless_boots": "useless boots",
     
     "creativetab.test_mod_tab": "useless mod"
 }

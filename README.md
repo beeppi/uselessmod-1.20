@@ -7,6 +7,8 @@
    - [uselessness](#uselessness)
    - [useless block](#useless-block)
    - [armor](#armor)
+- [supported languages](#languages-supported)
+- [how to install]
 - [source installation information for modders (if you want to run the mod with using gradle)](#source-installation-information-for-modders)
 
 ## features
@@ -38,15 +40,11 @@ use:
 how to get:
 - craft from [uselessness](#uselessness)
 
-### armor
-armor sets:
-- useless armor (crafted with: [uselessness](#uselessness))
 
-all armor pieces:
-- useless helmet
-- useless chestplate
-- useless leggings
-- useless boots
+## languages supported
+
+- english
+- finnish
 
 
 ## Source installation information for modders
