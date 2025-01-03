@@ -7,6 +7,7 @@
    - [uselessness](#uselessness)
    - [useless block](#useless-block)
    - [armor](#armor)
+- [supported languages](#languages-supported)
 - [source installation information for modders (if you want to run the mod with using gradle)](#source-installation-information-for-modders)
 
 ## features
@@ -47,6 +48,12 @@ all armor pieces:
 - useless chestplate
 - useless leggings
 - useless boots
+
+
+## languages supported
+
+- english
+- finnish
 
 
 ## Source installation information for modders
