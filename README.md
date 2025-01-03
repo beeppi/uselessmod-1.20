@@ -46,6 +46,19 @@ how to get:
 - finnish
 
 
+## how to install
+
+watch a [tutorial](https://www.youtube.com/watch?v=_mmgsdCxASo) or follow these steps
+
+- download from the [latest release](https://github.com/beeppi/uselessmod-1.20/releases/latest) the .jar file
+- download [forge 1.20](https://files.minecraftforge.net/net/minecraftforge/forge/index_1.20.html) installer (if you don't have it already)
+- run the installer
+- open file explorer and go to %appdata% > .minecraft > mods and put the .jar file in the forder
+- open minecraft launcher
+- run the forge installation or create a new forge installation yourself
+- press play
+
+
 ## Source installation information for modders
 
 This code follows the Minecraft Forge installation methodology. It will apply
