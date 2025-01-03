@@ -1,0 +1,18 @@
+{
+    "type": "crafting_shaped",
+    "category": "equipment",
+    "result": {
+        "item": "uselessmod:useless_leggings",
+        "count": 1
+    },
+    "pattern": [
+        "###",
+        "# #",
+        "# #"
+    ],
+    "key": {
+        "#": {
+            "item": "uselessmod:uselessness"
+        }
+    }
+}

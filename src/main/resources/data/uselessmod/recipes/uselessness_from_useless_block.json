@@ -1,0 +1,13 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "category": "misc",
+    "result": {
+        "item": "uselessmod:uselessness",
+        "count": 9
+    },
+    "ingredients": [
+        {
+            "item": "uselessmod:useless_block"
+        }
+    ]
+}

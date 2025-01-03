@@ -1,0 +1,18 @@
+{
+    "type": "crafting_shaped",
+    "category": "equipment",
+    "result": {
+        "item": "uselessmod:useless_chestplate",
+        "count": 1
+    },
+    "pattern": [
+        "# #",
+        "###",
+        "###"
+    ],
+    "key": {
+        "#": {
+            "item": "uselessmod:uselessness"
+        }
+    }
+}
