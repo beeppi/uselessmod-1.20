@@ -62,6 +62,7 @@ all armor pieces:
 watch a [tutorial](https://www.youtube.com/watch?v=_mmgsdCxASo) or follow these steps
 
 - download from the [latest release](https://github.com/beeppi/uselessmod-1.20/releases/latest) the .jar file
+- it's also a good idea to press the **what is in the mod** link to see what is in the version you're downloading
 - download [forge 1.20](https://files.minecraftforge.net/net/minecraftforge/forge/index_1.20.html) installer (if you don't have it already)
 - run the installer
 - open file explorer and go to %appdata% > .minecraft > mods and put the .jar file in the forder
