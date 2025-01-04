@@ -13,7 +13,9 @@
 
 ## features
 
-### useless ore
+### useless ore 
+![image](src/main/resources/assets/uselessmod/textures/block/useless_ore.png)
+
 how to find:
 - can be found in caves
 
