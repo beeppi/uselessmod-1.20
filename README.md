@@ -2,10 +2,10 @@
 
 ## contents
 - [mod features](#features)
-   - [useless ore](#useless-ore)
-   - [raw uselessness](#raw-uselessness)
-   - [uselessness](#uselessness)
-   - [useless block](#useless-block)
+   - [useless ore](#useless-ore-image)
+   - [raw uselessness](#raw-uselessness-image)
+   - [uselessness](#uselessness-image)
+   - [useless block](#useless-block-image)
    - [armor](#armor)
 - [supported languages](#languages-supported)
 - [how to install](#how-to-install)
@@ -13,44 +13,43 @@
 
 ## features
 
-### useless ore 
-![image](src/main/resources/assets/uselessmod/textures/block/useless_ore.png)
+### useless ore ![image](src/main/resources/assets/uselessmod/textures/block/useless_ore.png)
 
 how to find:
 - can be found in caves
 
 use:
-- when mined gives: [raw uselessness](#raw-uselessness)
+- when mined gives: [raw uselessness](#raw-uselessness-image)
 
-### raw uselessness
+### raw uselessness ![image](src/main/resources/assets/uselessmod/textures/item/raw_uselessness.png)
 how to get:
-- get by mining [useless ore](#useless-ore)
+- get by mining [useless ore](#useless-ore-image)
 
 use:
-- when smelt in furnace gives: [uselessness](#uselessness)
+- when smelt in furnace gives: [uselessness](#uselessness-image)
 
-### uselessness
+### uselessness ![image](src/main/resources/assets/uselessmod/textures/item/uselessness.png)
 useless item
 how to get:
-- smelt [raw uselessness](#raw-uselessness)
+- smelt [raw uselessness](#raw-uselessness-image)
 
 use:
-- can be crafted into: [useless block](#useless-block)
+- can be crafted into: [useless block](#useless-block-image)
 - can be crafted into: [armor](#armor)
 
-### useless block
+### useless block ![image](src/main/resources/assets/uselessmod/textures/block/useless_block.png)
 how to get:
-- craft from [uselessness](#uselessness)
+- craft from [uselessness](#uselessness-image)
 
 ### armor
 armor sets:
-- useless armor (crafted with: [uselessness](#uselessness))
+- useless armor (crafted with: [uselessness](#uselessness-image))
 
 all armor pieces:
-- useless helmet
-- useless chestplate
-- useless leggings
-- useless boots
+- useless helmet ![image](src/main/resources/assets/uselessmod/textures/item/useless_helmet.png)
+- useless chestplate ![image](src/main/resources/assets/uselessmod/textures/item/useless_chestplate.png)
+- useless leggings ![image](src/main/resources/assets/uselessmod/textures/item/useless_leggings.png)
+- useless boots ![image](src/main/resources/assets/uselessmod/textures/item/useless_boots.png)
 
 
 ## languages supported
