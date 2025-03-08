@@ -11,7 +11,7 @@
 - [how to install](#how-to-install)
 - [source installation information for modders (if you want to run the mod with using gradle)](#source-installation-information-for-modders)
 
-![image](doc/2025-03-08_11.20.14.png)
+![image](doc/screenshot-1.1.0.png)
 
 ## features
 
