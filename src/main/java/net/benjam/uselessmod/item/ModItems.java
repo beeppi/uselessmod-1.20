@@ -74,8 +74,8 @@ public class ModItems {
         "useless_sword",
         () -> new SwordItem(
             ModToolTiers.USELESSNESS,
-            4,
             2,
+            1,
             new Item.Properties()
         )
     );
@@ -96,7 +96,7 @@ public class ModItems {
         "useless_axe",
         () -> new AxeItem(
             ModToolTiers.USELESSNESS,
-            7,
+            4,
             1,
             new Item.Properties()
         )
