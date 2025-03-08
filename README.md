@@ -11,6 +11,8 @@
 - [how to install](#how-to-install)
 - [source installation information for modders (if you want to run the mod with using gradle)](#source-installation-information-for-modders)
 
+![image](doc/2025-03-08_11.20.14.png)
+
 ## features
 
 ### useless ore ![image](src/main/resources/assets/uselessmod/textures/block/useless_ore.png)
