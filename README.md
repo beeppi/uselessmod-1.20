@@ -53,6 +53,14 @@ all armor pieces:
 - useless leggings ![image](src/main/resources/assets/uselessmod/textures/item/useless_leggings.png)
 - useless boots ![image](src/main/resources/assets/uselessmod/textures/item/useless_boots.png)
 
+### tools
+**WORK IN PROGRESS!**
+
+tool types:
+- useless tools (crafted with: [uselessness](#uselessness-image))
+
+all tools:
+- useless sword (texture does not exist yet)
 
 ## languages supported
 
