@@ -61,7 +61,6 @@ all armor pieces:
 - useless boots ![image](src/main/resources/assets/uselessmod/textures/item/useless_boots.png)
 
 ### tools
-**WORK IN PROGRESS!!!**
 
 tool types:
 - useless tools (crafted with: [uselessness](#uselessness-image))
