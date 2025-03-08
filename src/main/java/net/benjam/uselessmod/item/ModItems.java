@@ -2,7 +2,11 @@ package net.benjam.uselessmod.item;
 
 import net.benjam.uselessmod.UselessMod;
 import net.minecraft.world.item.ArmorItem;
+import net.minecraft.world.item.AxeItem;
+import net.minecraft.world.item.HoeItem;
 import net.minecraft.world.item.Item;
+import net.minecraft.world.item.PickaxeItem;
+import net.minecraft.world.item.ShovelItem;
 import net.minecraft.world.item.SwordItem;
 import net.minecraftforge.eventbus.api.IEventBus;
 import net.minecraftforge.registries.DeferredRegister;
@@ -72,6 +76,50 @@ public class ModItems {
             ModToolTiers.USELESSNESS,
             4,
             2,
+            new Item.Properties()
+        )
+    );
+
+    public static final RegistryObject<Item> USELESS_PICKAXE = 
+    ITEMS.register(
+        "useless_pickaxe",
+        () -> new PickaxeItem(
+            ModToolTiers.USELESSNESS,
+            1,
+            1,
+            new Item.Properties()
+        )
+    );
+
+    public static final RegistryObject<Item> USELESS_AXE = 
+    ITEMS.register(
+        "useless_axe",
+        () -> new AxeItem(
+            ModToolTiers.USELESSNESS,
+            7,
+            1,
+            new Item.Properties()
+        )
+    );
+
+    public static final RegistryObject<Item> USELESS_HOE = 
+    ITEMS.register(
+        "useless_hoe",
+        () -> new HoeItem(
+            ModToolTiers.USELESSNESS,
+            0,
+            0,
+            new Item.Properties()
+        )
+    );
+
+    public static final RegistryObject<Item> USELESS_SHOVEL = 
+    ITEMS.register(
+        "useless_shovel",
+        () -> new ShovelItem(
+            ModToolTiers.USELESSNESS,
+            0,
+            0,
             new Item.Properties()
         )
     );

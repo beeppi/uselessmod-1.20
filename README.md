@@ -61,6 +61,10 @@ tool types:
 
 all tools:
 - useless sword (texture does not exist yet)
+- useless pickaxe (texture does not exist yet)
+- useless axe (texture does not exist yet)
+- useless shovel (texture does not exist yet)
+- useless hoe (texture does not exist yet)
 
 ## languages supported
 

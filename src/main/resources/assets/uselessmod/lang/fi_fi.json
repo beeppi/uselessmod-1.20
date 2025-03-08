@@ -10,6 +10,12 @@
     "item.uselessmod.useless_chestplate": "hyödytön rintapanssari",
     "item.uselessmod.useless_leggings": "hyödyttömät housut",
     "item.uselessmod.useless_boots": "hyödyttömät saappaat",
+
+    "item.uselessmod.useless_sword": "hyödytön miekka",
+    "item.uselessmod.useless_pickaxe": "hyödytön hakku",
+    "item.uselessmod.useless_axe": "hyödytön kirves",
+    "item.uselessmod.useless_shovel": "hyödytön lapio",
+    "item.uselessmod.useless_hoe": "hyödytön kuokka",
     
     "creativetab.test_mod_tab": "hyödytön modi"
 }

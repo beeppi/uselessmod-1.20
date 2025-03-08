@@ -10,6 +10,12 @@
     "item.uselessmod.useless_chestplate": "useless chestplate",
     "item.uselessmod.useless_leggings": "useless leggings",
     "item.uselessmod.useless_boots": "useless boots",
+
+    "item.uselessmod.useless_sword": "useless sword",
+    "item.uselessmod.useless_pickaxe": "useless pickaxe",
+    "item.uselessmod.useless_axe": "useless axe",
+    "item.uselessmod.useless_shovel": "useless shovel",
+    "item.uselessmod.useless_hoe": "useless hoe",
     
     "creativetab.test_mod_tab": "useless mod"
 }
