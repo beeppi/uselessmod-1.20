@@ -1,17 +1,24 @@
 # uselessmod
 
 ## contents
+- [what's new](#whats-new)
 - [mod features](#features)
    - [useless ore](#useless-ore-image)
    - [raw uselessness](#raw-uselessness-image)
    - [uselessness](#uselessness-image)
    - [useless block](#useless-block-image)
    - [armor](#armor)
+   - [tools](#tools)
 - [supported languages](#languages-supported)
 - [how to install](#how-to-install)
 - [source installation information for modders (if you want to run the mod with using gradle)](#source-installation-information-for-modders)
 
 ![image](doc/screenshot-1.1.0.png)
+
+## what's new
+stuff added in 1.1.0: <!-- TODO: update kun alat tekemään seuraava update -->
+- [armor](#armor)
+- [tools and new sword](#tools)
 
 ## features
 
