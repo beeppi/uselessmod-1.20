@@ -15,7 +15,7 @@ public class CreativeTabs {
     public static final DeferredRegister<CreativeModeTab> CREATIVE_MODE_TABS = 
     DeferredRegister.create(Registries.CREATIVE_MODE_TAB, UselessMod.MOD_ID);
 
-    public static final RegistryObject<CreativeModeTab> TEST_MOD_TAB = 
+    public static final RegistryObject<CreativeModeTab> USELESS_MOD_TAB = 
     CREATIVE_MODE_TABS.register("test_mod_tab", () -> CreativeModeTab.builder()
         .icon(() -> new ItemStack(ModItems.USELESSNESS.get()))
         .title(Component.translatable("creativetab.test_mod_tab"))
@@ -31,6 +31,12 @@ public class CreativeTabs {
             pOutput.accept(ModItems.USELESS_CHESTPLATE.get());
             pOutput.accept(ModItems.USELESS_LEGGINGS.get());
             pOutput.accept(ModItems.USELESS_BOOTS.get());
+
+            pOutput.accept(ModItems.USELESS_SWORD.get());
+            pOutput.accept(ModItems.USELESS_PICKAXE.get());
+            pOutput.accept(ModItems.USELESS_AXE.get());
+            pOutput.accept(ModItems.USELESS_SHOVEL.get());
+            pOutput.accept(ModItems.USELESS_HOE.get());
         })
         .build());
 

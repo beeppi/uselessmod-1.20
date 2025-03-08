@@ -60,11 +60,11 @@ tool types:
 - useless tools (crafted with: [uselessness](#uselessness-image))
 
 all tools:
-- useless sword (texture does not exist yet)
-- useless pickaxe (texture does not exist yet)
-- useless axe (texture does not exist yet)
-- useless shovel (texture does not exist yet)
-- useless hoe (texture does not exist yet)
+- useless sword ![image](src/main/resources/assets/uselessmod/textures/item/useless_sword.png)
+- useless pickaxe ![image](src/main/resources/assets/uselessmod/textures/item/useless_pickaxe.png)
+- useless axe ![image](src/main/resources/assets/uselessmod/textures/item/useless_axe.png)
+- useless shovel ![image](src/main/resources/assets/uselessmod/textures/item/useless_shovel.png)
+- useless hoe ![image](src/main/resources/assets/uselessmod/textures/item/useless_hoe.png)
 
 ## languages supported
 
