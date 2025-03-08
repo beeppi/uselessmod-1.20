@@ -3,6 +3,7 @@ package net.benjam.uselessmod.item;
 import net.benjam.uselessmod.UselessMod;
 import net.minecraft.world.item.ArmorItem;
 import net.minecraft.world.item.Item;
+import net.minecraft.world.item.SwordItem;
 import net.minecraftforge.eventbus.api.IEventBus;
 import net.minecraftforge.registries.DeferredRegister;
 import net.minecraftforge.registries.ForgeRegistries;
@@ -46,6 +47,17 @@ public class ModItems {
         ArmorItem.Type.BOOTS, 
         new Item.Properties()
     ));
+
+    public static final RegistryObject<Item> USELESS_SWORD = 
+    ITEMS.register(
+        "useless_sword",
+        () -> new SwordItem(
+            ModToolTiers.USELESSNESS,
+            4,
+            2,
+            new Item.Properties()
+        )
+    );
 
     public static void register(IEventBus eventBus) {
         ITEMS.register(eventBus);
