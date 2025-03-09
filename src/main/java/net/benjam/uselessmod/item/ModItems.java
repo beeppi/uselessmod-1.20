@@ -96,7 +96,7 @@ public class ModItems {
         "useless_axe",
         () -> new AxeItem(
             ModToolTiers.USELESSNESS,
-            4,
+            3,
             1,
             new Item.Properties()
         )
