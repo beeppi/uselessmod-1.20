@@ -16,7 +16,7 @@ public class ModToolTiers {
         new ForgeTier(
             3,
             400,
-            0.1f,
+            1f,
             0.3f,
             20,
             ModTags.Blocks.NEEDS_USELESS_TOOL,
