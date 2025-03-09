@@ -16,9 +16,15 @@
 ![image](doc/screenshot-1.1.0.png)
 
 ## what's new
-stuff added in 1.1.0: <!-- TODO: update kun alat tekemään seuraava update -->
-- [armor](#armor)
-- [tools and new sword](#tools)
+
+**WARNING**: WIP (work in progress) update:
+- WIP versions are not real releases so there is no .jar file
+- the update might be broken
+- if you get the [latest release](https://github.com/beeppi/uselessmod-1.20/releases/latest) the features here will not exist
+
+stuff added in 1.1.1-WIP: <!-- TODO: update kun alat tekemään seuraava update -->
+
+- better mining speed with [useless tools](#tools)
 
 ## features
 
