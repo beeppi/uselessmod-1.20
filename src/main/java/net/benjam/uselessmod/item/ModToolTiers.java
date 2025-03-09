@@ -13,7 +13,15 @@ import java.util.List;
 
 public class ModToolTiers {
     public static final Tier USELESSNESS = TierSortingRegistry.registerTier(
-        new ForgeTier(3, 400, 0.1f, 0.3f, 20, ModTags.Blocks.NEEDS_USELESS_TOOL, () -> Ingredient.of(ModItems.USELESSNESS.get())),
+        new ForgeTier(
+            3,
+            400,
+            0.1f,
+            0.3f,
+            20,
+            ModTags.Blocks.NEEDS_USELESS_TOOL,
+            () -> Ingredient.of(ModItems.USELESSNESS.get())
+        ),
         new ResourceLocation(UselessMod.MOD_ID, "uselessness"),
         List.of(Tiers.IRON),
         List.of()
