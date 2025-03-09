@@ -24,6 +24,6 @@ public class ModToolTiers {
         ),
         new ResourceLocation(UselessMod.MOD_ID, "uselessness"),
         List.of(Tiers.IRON),
-        List.of()
+        List.of(Tiers.DIAMOND)
     );
 }
