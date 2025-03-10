@@ -17,14 +17,16 @@
 
 ## what's new
 
-**WARNING**: WIP (work in progress) update:
+<!-- **NOTE**: WIP (work in progress) update:
 - WIP versions are not real releases so there is no .jar file
 - the update might be broken
-- if you get the [latest release](https://github.com/beeppi/uselessmod-1.20/releases/latest) the features here will not exist
+- if you get the [latest release](https://github.com/beeppi/uselessmod-1.20/releases/latest) the features here will not exist -->
 
-stuff added in 1.1.1-WIP: <!-- TODO: update kun alat tekemään seuraava update -->
+stuff added in 1.1.1-pre-release-1: <!-- TODO: update kun alat tekemään seuraava update -->
 
 - better mining speed with [useless tools](#tools)
+- bug fixes:
+   - [useless block](#useless-block-image) can now be mined (also with iron pickaxe witch is a bug)
 
 ## features
 
